@@ -1,0 +1,6 @@
+C:\Curso\20483\Luismi\Tareas\Mod05_T20483\Democode\BaseConstructors\bin\Debug\BaseConstructors.exe.config
+C:\Curso\20483\Luismi\Tareas\Mod05_T20483\Democode\BaseConstructors\bin\Debug\BaseConstructors.exe
+C:\Curso\20483\Luismi\Tareas\Mod05_T20483\Democode\BaseConstructors\bin\Debug\BaseConstructors.pdb
+C:\Curso\20483\Luismi\Tareas\Mod05_T20483\Democode\BaseConstructors\obj\Debug\BaseConstructors.csproj.CoreCompileInputs.cache
+C:\Curso\20483\Luismi\Tareas\Mod05_T20483\Democode\BaseConstructors\obj\Debug\BaseConstructors.exe
+C:\Curso\20483\Luismi\Tareas\Mod05_T20483\Democode\BaseConstructors\obj\Debug\BaseConstructors.pdb
